@@ -117,3 +117,20 @@ See [`MODEL_CARD.md`](MODEL_CARD.md) for intended use and a fuller risk discussi
 ## License
 
 MIT (code). Raw datasets are not redistributed here; each source keeps its own license (see `data/README.md`).
+
+---
+
+## Provenance & development history
+
+This repository is the **curated public release** (June 2026) of the project: pipeline,
+model zoo, notebooks, result CSVs, figures, and model card, published as a single squashed
+commit once the team had authorization to open the work.
+
+The **original incremental development** happened during the Spring 2026 course in
+[`karimsemaan/KickCaster`](https://github.com/karimsemaan/KickCaster) (April 2026 —
+notebooks, `src/`, cached outputs, with the real commit-by-commit history), plus the
+course working environment. The follow-up
+[calibration study](https://achievements-portfolio.vercel.app/work/kickcast-calibration)
+(per-class isotonic recalibration on the 2022 WC holdout) was run against this repo's
+saved `XGBoost_tuned_balanced` artifact and is documented with before/after reliability
+diagrams and a PDF report.
