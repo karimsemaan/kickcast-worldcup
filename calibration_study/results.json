@@ -1,0 +1,35 @@
+{
+  "model": "XGBoost_tuned_balanced (Karim's saved artifact, repro-verified vs test_results.csv)",
+  "calibrator": "per-class isotonic regression fit on the validation split (n=2324, 2020-01-01..2022-11-19), row-renormalized; WC-64 holdout untouched during fitting",
+  "wc2022_holdout_n": 64,
+  "wc2022_class_counts_HW_D_AW": [28, 15, 21],
+  "wc2022_before": {
+    "log_loss": 1.3470697402954102,
+    "brier_multiclass": 0.7394517047656848,
+    "ece_pooled_ovr_10bin": 0.15684920025523752,
+    "ece_toplabel_10bin": 0.24710223451256752,
+    "accuracy": 0.453125
+  },
+  "wc2022_after": {
+    "log_loss": 1.0931836366653442,
+    "brier_multiclass": 0.6464093331185428,
+    "ece_pooled_ovr_10bin": 0.11955352816342686,
+    "ece_toplabel_10bin": 0.1483007511124015,
+    "accuracy": 0.5
+  },
+  "full_test_n": 3552,
+  "full_test_before": {
+    "log_loss": 1.030808925628662,
+    "brier_multiclass": 0.5828493248679537,
+    "ece_pooled_ovr_10bin": 0.0981175287741351,
+    "ece_toplabel_10bin": 0.13428549727777372,
+    "accuracy": 0.5625
+  },
+  "full_test_after": {
+    "log_loss": 0.9230908751487732,
+    "brier_multiclass": 0.535728133327543,
+    "ece_pooled_ovr_10bin": 0.016769641772256583,
+    "ece_toplabel_10bin": 0.017002022405666842,
+    "accuracy": 0.5830518018018018
+  }
+}
