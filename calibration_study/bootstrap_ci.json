@@ -1,0 +1,64 @@
+{
+  "_provenance": "Percentile bootstrap (B=10,000, seed 5644) over the 64-match 2022 WC holdout; calibrator fit once on the 2,324-match validation split and held fixed across resamples (no refitting). Point estimates verified to reproduce the published study numbers before resampling. Resamples with a single outcome class are skipped (log-loss undefined).",
+  "n_holdout": 64,
+  "n_resamples_used": 10000,
+  "point_estimates": {
+    "before": {
+      "log_loss": 1.3470697402954102,
+      "ece": 0.15684920025523752,
+      "brier": 0.7394517047656848
+    },
+    "after": {
+      "log_loss": 1.0931835174560547,
+      "ece": 0.11955355220319083,
+      "brier": 0.6464093482501182
+    }
+  },
+  "ci95": {
+    "log_loss_before": {
+      "lo": 1.046,
+      "hi": 1.676,
+      "mean": 1.347
+    },
+    "log_loss_after": {
+      "lo": 0.922,
+      "hi": 1.274,
+      "mean": 1.094
+    },
+    "log_loss_delta": {
+      "lo": -0.421,
+      "hi": -0.101,
+      "mean": -0.253
+    },
+    "ece_before": {
+      "lo": 0.108,
+      "hi": 0.248,
+      "mean": 0.175
+    },
+    "ece_after": {
+      "lo": 0.085,
+      "hi": 0.188,
+      "mean": 0.135
+    },
+    "ece_delta": {
+      "lo": -0.101,
+      "hi": 0.026,
+      "mean": -0.041
+    },
+    "brier_before": {
+      "lo": 0.595,
+      "hi": 0.887,
+      "mean": 0.74
+    },
+    "brier_after": {
+      "lo": 0.54,
+      "hi": 0.756,
+      "mean": 0.647
+    },
+    "brier_delta": {
+      "lo": -0.151,
+      "hi": -0.036,
+      "mean": -0.093
+    }
+  }
+}
