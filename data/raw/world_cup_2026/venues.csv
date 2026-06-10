@@ -1,0 +1,16 @@
+stadium,city,country,latitude,longitude,altitude_m,avg_june_temp_c,avg_june_humidity_pct,capacity,surface
+Estadio Azteca,Mexico City,Mexico,19.3029,-99.1505,2240,18,55,87523,Grass
+Estadio Akron,Guadalajara,Mexico,20.6820,-103.4625,1566,24,62,49850,Grass
+BMO Field,Toronto,Canada,43.6332,-79.4186,76,20,60,30000,Grass
+BC Place,Vancouver,Canada,49.2768,-123.1118,3,16,62,54500,Artificial
+MetLife Stadium,East Rutherford,United States,40.8128,-74.0742,2,24,65,82500,Grass
+SoFi Stadium,Inglewood,United States,33.9535,-118.3392,30,21,72,70240,Grass
+AT&T Stadium,Arlington,United States,32.7473,-97.0945,187,30,60,80000,Artificial
+NRG Stadium,Houston,United States,29.6847,-95.4107,15,29,72,72220,Grass
+Hard Rock Stadium,Miami Gardens,United States,25.9580,-80.2389,2,28,74,65326,Grass
+Mercedes-Benz Stadium,Atlanta,United States,33.7553,-84.4006,320,26,65,71000,Artificial
+Lincoln Financial Field,Philadelphia,United States,39.9008,-75.1675,12,24,63,69176,Grass
+Lumen Field,Seattle,United States,47.5952,-122.3316,5,17,60,68740,Artificial
+Gillette Stadium,Foxborough,United States,42.0909,-71.2643,60,21,64,65878,Grass
+GEHA Field,Kansas City,United States,39.0489,-94.4839,247,26,66,76416,Grass
+Levis Stadium,Santa Clara,United States,37.4032,-121.9698,17,22,52,68500,Grass

@@ -1,0 +1,33 @@
+round,match_number,date,home_source,away_source,stadium,city
+R32,73,2026-06-28,2A,2B,SoFi Stadium,Los Angeles
+R32,74,2026-06-29,1C,2F,NRG Stadium,Houston
+R32,75,2026-06-29,1E,3A/B/C/D/F,Gillette Stadium,Boston
+R32,76,2026-06-29,1F,2C,Estadio Akron,Guadalajara
+R32,77,2026-06-30,2E,2I,AT&T Stadium,Dallas
+R32,78,2026-06-30,1I,3C/D/F/G/H,MetLife Stadium,New York/New Jersey
+R32,79,2026-06-30,1A,3C/E/F/H/I,Estadio Azteca,Mexico City
+R32,80,2026-07-01,1L,3E/H/I/J/K,Mercedes-Benz Stadium,Atlanta
+R32,81,2026-07-01,1G,3A/E/H/I/J,Lumen Field,Seattle
+R32,82,2026-07-01,1D,3B/E/F/I/J,Levis Stadium,San Francisco
+R32,83,2026-07-02,1H,2J,SoFi Stadium,Los Angeles
+R32,84,2026-07-02,2K,2L,BMO Field,Toronto
+R32,85,2026-07-02,1B,3E/F/G/I/J,BC Place,Vancouver
+R32,86,2026-07-03,2D,2G,AT&T Stadium,Dallas
+R32,87,2026-07-03,1J,2H,Hard Rock Stadium,Miami
+R32,88,2026-07-03,1K,3D/E/I/J/L,GEHA Field,Kansas City
+R16,89,2026-07-04,W74,W75,NRG Stadium,Houston
+R16,90,2026-07-04,W76,W73,Lincoln Financial Field,Philadelphia
+R16,91,2026-07-05,W78,W77,MetLife Stadium,New York/New Jersey
+R16,92,2026-07-05,W79,W80,Estadio Azteca,Mexico City
+R16,93,2026-07-06,W82,W81,AT&T Stadium,Dallas
+R16,94,2026-07-06,W83,W86,Lumen Field,Seattle
+R16,95,2026-07-07,W84,W85,Mercedes-Benz Stadium,Atlanta
+R16,96,2026-07-07,W87,W88,BC Place,Vancouver
+QF,97,2026-07-09,W89,W90,Gillette Stadium,Boston
+QF,98,2026-07-10,W91,W92,SoFi Stadium,Los Angeles
+QF,99,2026-07-11,W93,W94,Hard Rock Stadium,Miami
+QF,100,2026-07-11,W95,W96,GEHA Field,Kansas City
+SF,101,2026-07-14,W97,W98,AT&T Stadium,Dallas
+SF,102,2026-07-15,W99,W100,Mercedes-Benz Stadium,Atlanta
+3P,103,2026-07-18,L101,L102,Hard Rock Stadium,Miami
+F,104,2026-07-19,W101,W102,MetLife Stadium,New York/New Jersey

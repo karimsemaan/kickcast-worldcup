@@ -1,0 +1,73 @@
+match_number,date,time_et,group,home_team,away_team,stadium,city
+1,2026-06-11,15:00,A,Mexico,South Africa,Estadio Azteca,Mexico City
+2,2026-06-11,22:00,A,South Korea,Czechia,Estadio Akron,Guadalajara
+3,2026-06-12,15:00,B,Canada,Bosnia and Herzegovina,BMO Field,Toronto
+4,2026-06-12,21:00,D,United States,Paraguay,SoFi Stadium,Los Angeles
+5,2026-06-13,15:00,B,Qatar,Switzerland,Levis Stadium,San Francisco
+6,2026-06-13,18:00,C,Brazil,Morocco,MetLife Stadium,New York/New Jersey
+7,2026-06-13,21:00,C,Haiti,Scotland,Gillette Stadium,Boston
+8,2026-06-14,00:00,D,Australia,Turkiye,BC Place,Vancouver
+9,2026-06-14,13:00,E,Germany,Curacao,NRG Stadium,Houston
+10,2026-06-14,16:00,F,Netherlands,Japan,AT&T Stadium,Dallas
+11,2026-06-14,19:00,E,Ivory Coast,Ecuador,Lincoln Financial Field,Philadelphia
+12,2026-06-14,22:00,F,Sweden,Tunisia,Estadio Akron,Guadalajara
+13,2026-06-15,13:00,H,Spain,Cape Verde,Mercedes-Benz Stadium,Atlanta
+14,2026-06-15,18:00,G,Belgium,Egypt,Lumen Field,Seattle
+15,2026-06-15,18:00,H,Saudi Arabia,Uruguay,Hard Rock Stadium,Miami
+16,2026-06-16,00:00,G,Iran,New Zealand,SoFi Stadium,Los Angeles
+17,2026-06-16,15:00,I,France,Senegal,MetLife Stadium,New York/New Jersey
+18,2026-06-16,18:00,I,Iraq,Norway,Gillette Stadium,Boston
+19,2026-06-16,21:00,J,Argentina,Algeria,GEHA Field,Kansas City
+20,2026-06-17,00:00,J,Austria,Jordan,Levis Stadium,San Francisco
+21,2026-06-17,13:00,K,Portugal,DR Congo,NRG Stadium,Houston
+22,2026-06-17,16:00,L,England,Croatia,AT&T Stadium,Dallas
+23,2026-06-17,19:00,L,Ghana,Panama,BMO Field,Toronto
+24,2026-06-17,22:00,K,Uzbekistan,Colombia,Estadio Azteca,Mexico City
+25,2026-06-18,12:00,A,Czechia,South Africa,Mercedes-Benz Stadium,Atlanta
+26,2026-06-18,15:00,B,Switzerland,Bosnia and Herzegovina,SoFi Stadium,Los Angeles
+27,2026-06-18,18:00,B,Canada,Qatar,BC Place,Vancouver
+28,2026-06-18,23:00,A,Mexico,South Korea,Estadio Akron,Guadalajara
+29,2026-06-19,15:00,D,United States,Australia,Lumen Field,Seattle
+30,2026-06-19,18:00,C,Scotland,Morocco,Gillette Stadium,Boston
+31,2026-06-19,21:00,C,Brazil,Haiti,Lincoln Financial Field,Philadelphia
+32,2026-06-20,00:00,D,Turkiye,Paraguay,Levis Stadium,San Francisco
+33,2026-06-20,13:00,F,Netherlands,Sweden,NRG Stadium,Houston
+34,2026-06-20,16:00,E,Germany,Ivory Coast,BMO Field,Toronto
+35,2026-06-20,20:00,E,Ecuador,Curacao,GEHA Field,Kansas City
+36,2026-06-21,00:00,F,Tunisia,Japan,Estadio Akron,Guadalajara
+37,2026-06-21,12:00,H,Spain,Saudi Arabia,Mercedes-Benz Stadium,Atlanta
+38,2026-06-21,15:00,G,Belgium,Iran,SoFi Stadium,Los Angeles
+39,2026-06-21,18:00,H,Uruguay,Cape Verde,Hard Rock Stadium,Miami
+40,2026-06-21,21:00,G,New Zealand,Egypt,BC Place,Vancouver
+41,2026-06-22,13:00,J,Argentina,Austria,AT&T Stadium,Dallas
+42,2026-06-22,17:00,I,France,Iraq,Lincoln Financial Field,Philadelphia
+43,2026-06-22,20:00,I,Norway,Senegal,MetLife Stadium,New York/New Jersey
+44,2026-06-22,23:00,J,Jordan,Algeria,Levis Stadium,San Francisco
+45,2026-06-23,13:00,K,Portugal,Uzbekistan,NRG Stadium,Houston
+46,2026-06-23,16:00,L,England,Ghana,Gillette Stadium,Boston
+47,2026-06-23,19:00,L,Panama,Croatia,BMO Field,Toronto
+48,2026-06-23,22:00,K,Colombia,DR Congo,Estadio Akron,Guadalajara
+49,2026-06-24,15:00,B,Switzerland,Canada,BC Place,Vancouver
+50,2026-06-24,15:00,B,Bosnia and Herzegovina,Qatar,Lumen Field,Seattle
+51,2026-06-24,18:00,C,Scotland,Brazil,Hard Rock Stadium,Miami
+52,2026-06-24,18:00,C,Morocco,Haiti,Mercedes-Benz Stadium,Atlanta
+53,2026-06-24,21:00,A,Czechia,Mexico,Estadio Azteca,Mexico City
+54,2026-06-24,21:00,A,South Africa,South Korea,Estadio Akron,Guadalajara
+55,2026-06-25,16:00,E,Ecuador,Germany,MetLife Stadium,New York/New Jersey
+56,2026-06-25,16:00,E,Curacao,Ivory Coast,Lincoln Financial Field,Philadelphia
+57,2026-06-25,19:00,F,Japan,Sweden,AT&T Stadium,Dallas
+58,2026-06-25,19:00,F,Tunisia,Netherlands,GEHA Field,Kansas City
+59,2026-06-25,22:00,D,Turkiye,United States,SoFi Stadium,Los Angeles
+60,2026-06-25,22:00,D,Paraguay,Australia,Levis Stadium,San Francisco
+61,2026-06-26,15:00,I,Norway,France,Gillette Stadium,Boston
+62,2026-06-26,15:00,I,Senegal,Iraq,BMO Field,Toronto
+63,2026-06-26,20:00,H,Cape Verde,Saudi Arabia,NRG Stadium,Houston
+64,2026-06-26,20:00,H,Uruguay,Spain,Estadio Akron,Guadalajara
+65,2026-06-26,23:00,G,Egypt,Iran,Lumen Field,Seattle
+66,2026-06-26,23:00,G,New Zealand,Belgium,BC Place,Vancouver
+67,2026-06-27,17:00,L,Panama,England,MetLife Stadium,New York/New Jersey
+68,2026-06-27,17:00,L,Croatia,Ghana,Lincoln Financial Field,Philadelphia
+69,2026-06-27,19:30,K,Colombia,Portugal,Hard Rock Stadium,Miami
+70,2026-06-27,19:30,K,DR Congo,Uzbekistan,Mercedes-Benz Stadium,Atlanta
+71,2026-06-27,22:00,J,Algeria,Austria,GEHA Field,Kansas City
+72,2026-06-27,22:00,J,Jordan,Argentina,AT&T Stadium,Dallas

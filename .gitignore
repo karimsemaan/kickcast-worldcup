@@ -1,0 +1,21 @@
+# Data is rebuilt locally, never committed (see data/README.md)
+data/raw/*
+!data/raw/world_cup_2026/
+data/processed/
+
+# Trained model binaries (up to 307 MB): retrain via notebooks/02_model_training.py
+outputs/model_artifacts/*.joblib
+!outputs/model_artifacts/optuna_results.joblib
+!outputs/model_artifacts/enhanced_optuna_results.joblib
+
+# Environments / caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Credentials: never commit
+.env
+.env.*
+kaggle.json
