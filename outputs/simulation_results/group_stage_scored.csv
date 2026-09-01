@@ -1,0 +1,73 @@
+match_number,group,home_team,away_team,score,predicted,actual,correct,log_loss,brier
+1,A,Mexico,South Africa,2-0,home,home,True,0.414422,0.184152
+2,A,South Korea,Czechia,2-1,draw,home,False,1.005141,0.608111
+3,B,Canada,Bosnia and Herzegovina,1-1,home,draw,False,1.277932,0.873328
+4,D,United States,Paraguay,4-1,home,home,True,0.936416,0.560378
+5,B,Qatar,Switzerland,1-1,away,draw,False,1.217277,0.825288
+6,C,Brazil,Morocco,1-1,home,draw,False,1.154023,0.787034
+7,C,Haiti,Scotland,0-1,away,away,True,0.542611,0.284194
+8,D,Australia,Turkiye,2-0,home,home,True,1.01402,0.609125
+9,E,Germany,Curacao,7-1,home,home,True,0.249784,0.077891
+10,F,Netherlands,Japan,2-2,home,draw,False,1.025136,0.622226
+11,E,Ivory Coast,Ecuador,1-0,away,home,False,1.528841,0.936492
+12,F,Sweden,Tunisia,5-1,home,home,True,0.871829,0.515383
+13,H,Spain,Cape Verde,0-0,home,draw,False,2.517514,1.636621
+14,G,Belgium,Egypt,1-1,home,draw,False,1.257604,0.884659
+15,H,Saudi Arabia,Uruguay,1-1,away,draw,False,1.160007,0.826386
+16,G,Iran,New Zealand,2-2,home,draw,False,1.042624,0.640273
+17,I,France,Senegal,3-1,home,home,True,0.613481,0.328624
+18,I,Iraq,Norway,1-4,away,away,True,0.359871,0.153798
+19,J,Argentina,Algeria,3-0,home,home,True,0.337074,0.132222
+20,J,Austria,Jordan,3-1,home,home,True,0.571485,0.29747
+21,K,Portugal,DR Congo,1-1,home,draw,False,1.458739,1.043171
+22,L,England,Croatia,4-2,home,home,True,0.770471,0.450709
+23,L,Ghana,Panama,1-0,away,home,False,1.19954,0.732478
+24,K,Uzbekistan,Colombia,1-3,away,away,True,0.422957,0.198265
+25,A,Czechia,South Africa,1-1,home,draw,False,1.093041,0.716704
+26,B,Switzerland,Bosnia and Herzegovina,4-1,home,home,True,0.428489,0.192457
+27,B,Canada,Qatar,6-0,home,home,True,0.274253,0.090615
+28,A,Mexico,South Korea,1-0,home,home,True,0.931808,0.555091
+29,D,United States,Australia,2-0,home,home,True,0.892832,0.530203
+30,C,Scotland,Morocco,0-1,away,away,True,0.789831,0.463261
+31,C,Brazil,Haiti,3-0,home,home,True,0.19884,0.052889
+32,D,Turkiye,Paraguay,0-1,away,away,True,0.877233,0.511916
+33,F,Netherlands,Sweden,5-1,home,home,True,0.513198,0.257167
+34,E,Germany,Ivory Coast,2-1,home,home,True,0.467435,0.218546
+35,E,Ecuador,Curacao,0-0,home,draw,False,1.755047,1.247229
+36,F,Tunisia,Japan,0-4,away,away,True,0.504078,0.259045
+37,H,Spain,Saudi Arabia,4-0,home,home,True,0.147855,0.030753
+38,G,Belgium,Iran,0-0,home,draw,False,1.201027,0.825585
+39,H,Uruguay,Cape Verde,2-2,home,draw,False,1.74397,1.247381
+40,G,New Zealand,Egypt,1-3,away,away,True,0.798608,0.461944
+41,J,Argentina,Austria,2-0,home,home,True,0.466622,0.22112
+42,I,France,Iraq,3-0,home,home,True,0.251112,0.078562
+43,I,Norway,Senegal,3-2,home,home,True,0.766844,0.439967
+44,J,Jordan,Algeria,1-2,away,away,True,0.693398,0.40151
+45,K,Portugal,Uzbekistan,5-0,home,home,True,0.512904,0.255328
+46,L,England,Ghana,0-0,home,draw,False,1.664934,1.197629
+47,L,Panama,Croatia,0-1,away,away,True,0.515544,0.266028
+48,K,Colombia,DR Congo,1-0,home,home,True,0.287282,0.098049
+49,B,Switzerland,Canada,2-1,home,home,True,0.841203,0.488792
+50,B,Bosnia and Herzegovina,Qatar,3-1,home,home,True,0.945618,0.562208
+51,C,Scotland,Brazil,0-3,away,away,True,0.445557,0.218829
+52,C,Morocco,Haiti,4-2,home,home,True,0.382147,0.159639
+53,A,Czechia,Mexico,0-3,away,away,True,0.77065,0.440076
+54,A,South Africa,South Korea,1-0,away,home,False,2.354823,1.281137
+55,E,Ecuador,Germany,2-1,away,home,False,1.748,1.028478
+56,E,Curacao,Ivory Coast,0-2,away,away,True,0.541323,0.285403
+57,F,Japan,Sweden,1-1,home,draw,False,1.044755,0.664728
+58,F,Tunisia,Netherlands,1-3,away,away,True,0.437525,0.214117
+59,D,Turkiye,United States,3-2,away,home,False,1.323174,0.809156
+60,D,Paraguay,Australia,0-0,draw,draw,True,1.004371,0.603232
+61,I,Norway,France,1-4,away,away,True,0.777572,0.465248
+62,I,Senegal,Iraq,5-0,home,home,True,0.423805,0.189034
+63,H,Cape Verde,Saudi Arabia,0-0,away,draw,False,1.098134,0.691879
+64,H,Uruguay,Spain,0-1,away,away,True,0.584599,0.323662
+65,G,Egypt,Iran,1-1,away,draw,False,1.018711,0.625715
+66,G,New Zealand,Belgium,1-5,away,away,True,0.376172,0.165532
+67,L,Panama,England,0-2,away,away,True,0.457819,0.229022
+68,L,Croatia,Ghana,2-1,home,home,True,0.335497,0.12726
+69,K,Colombia,Portugal,0-0,draw,draw,True,1.0229,0.618103
+70,K,DR Congo,Uzbekistan,3-1,away,home,False,1.1511,0.702231
+71,J,Algeria,Austria,3-3,away,draw,False,1.055986,0.678008
+72,J,Jordan,Argentina,1-3,away,away,True,0.324718,0.131047

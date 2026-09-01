@@ -1,0 +1,73 @@
+match_number,home_team,away_team,group,home_goals,away_goals,actual
+1,Mexico,South Africa,A,2,0,Home Win
+2,South Korea,Czechia,A,2,1,Home Win
+3,Canada,Bosnia and Herzegovina,B,1,1,Draw
+4,United States,Paraguay,D,4,1,Home Win
+5,Qatar,Switzerland,B,1,1,Draw
+6,Brazil,Morocco,C,1,1,Draw
+7,Haiti,Scotland,C,0,1,Away Win
+8,Australia,Turkiye,D,2,0,Home Win
+9,Germany,Curacao,E,7,1,Home Win
+10,Netherlands,Japan,F,2,2,Draw
+11,Ivory Coast,Ecuador,E,1,0,Home Win
+12,Sweden,Tunisia,F,5,1,Home Win
+13,Spain,Cape Verde,H,0,0,Draw
+14,Belgium,Egypt,G,1,1,Draw
+15,Saudi Arabia,Uruguay,H,1,1,Draw
+16,Iran,New Zealand,G,2,2,Draw
+17,France,Senegal,I,3,1,Home Win
+18,Iraq,Norway,I,1,4,Away Win
+19,Argentina,Algeria,J,3,0,Home Win
+20,Austria,Jordan,J,3,1,Home Win
+21,Portugal,DR Congo,K,1,1,Draw
+22,England,Croatia,L,4,2,Home Win
+23,Ghana,Panama,L,1,0,Home Win
+24,Uzbekistan,Colombia,K,1,3,Away Win
+25,Czechia,South Africa,A,1,1,Draw
+26,Switzerland,Bosnia and Herzegovina,B,4,1,Home Win
+27,Canada,Qatar,B,6,0,Home Win
+28,Mexico,South Korea,A,1,0,Home Win
+29,United States,Australia,D,2,0,Home Win
+30,Scotland,Morocco,C,0,1,Away Win
+31,Brazil,Haiti,C,3,0,Home Win
+32,Turkiye,Paraguay,D,0,1,Away Win
+33,Netherlands,Sweden,F,5,1,Home Win
+34,Germany,Ivory Coast,E,2,1,Home Win
+35,Ecuador,Curacao,E,0,0,Draw
+36,Tunisia,Japan,F,0,4,Away Win
+37,Spain,Saudi Arabia,H,4,0,Home Win
+38,Belgium,Iran,G,0,0,Draw
+39,Uruguay,Cape Verde,H,2,2,Draw
+40,New Zealand,Egypt,G,1,3,Away Win
+41,Argentina,Austria,J,2,0,Home Win
+42,France,Iraq,I,3,0,Home Win
+43,Norway,Senegal,I,3,2,Home Win
+44,Jordan,Algeria,J,1,2,Away Win
+45,Portugal,Uzbekistan,K,5,0,Home Win
+46,England,Ghana,L,0,0,Draw
+47,Panama,Croatia,L,0,1,Away Win
+48,Colombia,DR Congo,K,1,0,Home Win
+49,Switzerland,Canada,B,2,1,Home Win
+50,Bosnia and Herzegovina,Qatar,B,3,1,Home Win
+51,Scotland,Brazil,C,0,3,Away Win
+52,Morocco,Haiti,C,4,2,Home Win
+53,Czechia,Mexico,A,0,3,Away Win
+54,South Africa,South Korea,A,1,0,Home Win
+55,Ecuador,Germany,E,2,1,Home Win
+56,Curacao,Ivory Coast,E,0,2,Away Win
+57,Japan,Sweden,F,1,1,Draw
+58,Tunisia,Netherlands,F,1,3,Away Win
+59,Turkiye,United States,D,3,2,Home Win
+60,Paraguay,Australia,D,0,0,Draw
+61,Norway,France,I,1,4,Away Win
+62,Senegal,Iraq,I,5,0,Home Win
+63,Cape Verde,Saudi Arabia,H,0,0,Draw
+64,Uruguay,Spain,H,0,1,Away Win
+65,Egypt,Iran,G,1,1,Draw
+66,New Zealand,Belgium,G,1,5,Away Win
+67,Panama,England,L,0,2,Away Win
+68,Croatia,Ghana,L,2,1,Home Win
+69,Colombia,Portugal,K,0,0,Draw
+70,DR Congo,Uzbekistan,K,3,1,Home Win
+71,Algeria,Austria,J,3,3,Draw
+72,Jordan,Argentina,J,1,3,Away Win
