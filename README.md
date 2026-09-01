@@ -54,6 +54,20 @@ Expanding-window cross-validation (`timeseries_cv_results.csv`) shows the model 
 
 Sample tournament output (10,000 iterations, `outputs/simulation_results/win_probabilities.csv`): Spain 16.5%, Argentina 11.5%, Brazil 11.3%, France 10.4% to win the 2026 World Cup.
 
+## Scored against the real 2026 World Cup
+
+The per-match group-stage forecast was committed on 2026-04-20 (`outputs/simulation_results/group_match_predictions.csv`, the tuned class-balanced XGBoost run), weeks before the 2026-06-11 kickoff. Now that the tournament has been played, that standing forecast is scored against the real results, fully out-of-sample:
+
+| Metric | KickCast | Baseline |
+|---|---|---|
+| Top-1 correct | **47 / 72 = 65.3%** | always-home 47.2% |
+| Log-loss | **0.850** | uniform 1.099 (ln 3) |
+| Brier | 0.507 | |
+
+65.3% top-1 on unseen matches, well above the always-home baseline and the 45.3% the same models scored on the 2022 holdout, with log-loss comfortably beating uniform. 18 of the 25 misses were draws the model did not call, exactly the hard class this project is built around, so the story is unchanged: the value is in calibrated probabilities, not argmax. This is **group stage only** (72 matches); the committed per-match forecast does not cover the knockout bracket, so nothing here scores the tournament-winner odds.
+
+Reproduce with `python scripts/score_group_stage.py`. Final scores live in `outputs/simulation_results/group_stage_actual_results.csv`, compiled from public match reporting (ESPN, FIFA, FOX, Yahoo, Sky) and cross-checked as a consistent round-robin per group; the per-match breakdown is written to `group_stage_scored.csv` and the aggregate to `group_stage_score_summary.json`.
+
 ## How to run
 
 ```bash

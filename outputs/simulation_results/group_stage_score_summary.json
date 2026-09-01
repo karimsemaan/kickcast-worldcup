@@ -1,0 +1,13 @@
+{
+  "n": 72,
+  "correct": 47,
+  "accuracy": 0.6527777777777778,
+  "always_home_accuracy": 0.4722222222222222,
+  "log_loss": 0.849877008095045,
+  "uniform_log_loss": 1.0986122886681084,
+  "beats_uniform": true,
+  "brier": 0.5073582695287493,
+  "forecast": "committed course-submission run (tuned class-balanced XGBoost, Spain 16.51% favourite), locked 2026-04-20 before the 2026-06-11 kickoff",
+  "scope": "group stage only (72 matches); the committed per-match forecast does not cover knockout ties",
+  "actual_results_provenance": "compiled from public match reporting (ESPN, FIFA, FOX, Yahoo, Sky) and cross-checked as a consistent round-robin per group; outcome derived from recorded goals"
+}
